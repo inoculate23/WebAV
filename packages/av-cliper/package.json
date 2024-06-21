@@ -35,6 +35,8 @@
     "@webav/mp4box.js": "0.5.3-fenghen",
     "m3u8-parser": "^7.1.0",
     "opfs-tools": "^0.5.3",
-    "wave-resampler": "^1.0.0"
+    "wave-resampler": "^1.0.0",
+      "vite": "^5.2.11",
+    "vitest": "^1.6.0"
   }
 }
